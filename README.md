@@ -15,17 +15,15 @@ I made this to have a simple space where I could organize tasks, focus on work s
 
 ## Tech Stack
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
-
-## How to Run
 
 ## How to Run
 
 1. Clone the repository
 
-git clone https://github.com/Sanchi197/coffee-study-planner.git
+   git clone https://github.com/Sanchi197/coffee-study-planner.git
 
 2. Open the project folder.
 
